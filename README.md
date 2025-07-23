@@ -2,7 +2,7 @@
 This is an Advanced Excel Dashboard designed for a private company to monitor and analyze order and sales data. It provides a clear visual representation of key business metrics using Pivot Tables, Slicers, Charts, and Excel formulas (fx)
 
 ## Dataset used 
-
+- <a href="https://github.com/sagarsg14/Data-Analysis-Dasboard/blob/main/fnd%20dashboard.xlsx">Dataset</a>
 
 # 📊 Excel Dashboard Overview:
 # ✅ Project Purpose:
