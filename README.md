@@ -78,6 +78,7 @@ Dynamic filtering using slicers
 Time series and categorical data analysis
 
 Use of conditional formatting and custom visuals
+
 ---
 ## 🔍 Applications:
 
