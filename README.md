@@ -5,6 +5,9 @@ This is an Advanced Excel Dashboard designed for a private company to monitor an
 - <a href="https://github.com/sagarsg14/Data-Analysis-Dasboard/blob/main/fnd%20dashboard.xlsx">Dataset</a>
 
 # 📊 Excel Dashboard Overview:
+## Dashboard
+- <a href="https://github.com/sagarsg14/Data-Analysis-Dasboard/blob/main/Screenshot%20(4)%20c.png">Dashboard</a>
+
 # ✅ Project Purpose:
 
 ## To track and analyze company performance in terms of orders, revenue, delivery time, customer spending, and product categories.
