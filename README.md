@@ -89,3 +89,6 @@ Marketing campaign analysis by occasion
 Operational efficiency tracking (delivery time)
 
 Customer behavior insights
+
+<img width="1870" height="841" alt="Screenshot (4) c" src="https://github.com/user-attachments/assets/0d9fd55f-79eb-482d-a3b1-e3cf98564234" />
+
