@@ -69,7 +69,7 @@ order count
 ---
 ## 🧠 Skills Demonstrated:
 
-## Dashboard design
+Dashboard design
 
 Data cleaning and transformation
 
